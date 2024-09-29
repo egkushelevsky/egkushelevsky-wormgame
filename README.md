@@ -1,5 +1,5 @@
  Custom adaptation of classic "Snake" game. I completed this project for my high school Intro to Python class in fall 2021. This was my first project 
- implementing a GUI, and the starter code was adapted from Al Sweigart.
+ implementing a GUI and my first time using the PyGame library. The starter code was adapted from Al Sweigart.
  
  The first two levels are similar to the original Snake game, with the second level having the worm move at a faster speed than the first. I customized the
  appearance of each level and programmed the worm's movement and behavior when it reaches an apple.

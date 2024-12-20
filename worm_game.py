@@ -2,8 +2,7 @@
 # By Al Sweigart al@inventwithpython.com
 # http://inventwithpython.com/pygame
 # Released under a "Simplified BSD" license
-# Modified by elizabethkushelevsky
-# 11/3/21
+# Modified and customized functionality by elizabethkushelevsky
 
 # "YELLOW", "BLUE", "DARKBLUE", "PURPLE", and "VIOLET" colors generated on coolors.co
 # pygame.font.SysFont method for finding pre-downloaded fonts found at https://stackoverflow.com/questions/38001898/what-fonts-can-i-use-with-pygame-font-font
